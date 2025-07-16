@@ -1,1 +1,33 @@
 # go_bus_by_om
+
+## Online Bus Ticket Booking System for Travel Management
+The Online Bus Ticket Booking System for Travel Management is a mini project that aims to provide a convenient and user-friendly platform for travelers to search and book bus tickets online. This project utilizes the power of database management using MySQL to store and manage the necessary information related to buses, routes, schedules, and bookings.
+
+The system allows users to search for buses based on their desired origin and destination, along with the preferred travel date. Upon entering these details, the system retrieves relevant information from the database and displays available bus options, including departure time, duration, fare, and seat availability.
+
+## Technology used :
+1. phpmyadmin used for mysql database
+
+2. php used for backend
+
+3. html5 | css | javascript | bootstrap4 for frontend
+
+4. Xampp server
+
+## Guidline :
+Step 1:- Install Xampp
+
+Step 2:- Open Xampp folder and paste the whole project inside htdocs folder
+
+Step 3:- Start Xampp server and start apache and mysql
+
+Step 4:- open phpmyadmin using this link http://localhost/phpmyadmin/ and create a database with name (transport) name should be same otherwise it so error
+
+Step 5:- inside the project folder a file is transport.sql is import in phpmyadmin inside transport database
+
+Step 6:- check your project http://localhost/transport/
+
+Step 7:- admin username :-admin and password : admin
+
+## Feedback
+If you have any feedback, please reach me at omprakashtiwari1515@gmail.com 
